@@ -39,7 +39,7 @@ To install Quiz Game, follow these steps:
 N/A
 
 ### Run
-3. Run the Blackjack Game.
+3. Run Quiz Game.
    ```bash
    python main.py
    ```
