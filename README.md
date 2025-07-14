@@ -4,7 +4,7 @@
 This program is a simple terminal quiz game related to hockey and NHL facts to practice basic Python skills during my programming learning process. The code implements dictionaries, indexing, looping, conditionals and python string functions. The game features a data .txt file to enter questions, options and a correct answer and the program automatically loads and uses that data.
 
 <p align="left">
-   <img width="600" alt="image" src="https://github.com/user-attachments/assets/028513dd-b315-4e38-814c-2262593ce353"/>
+   <img width="600" alt="image" src="https://github.com/user-attachments/assets/0ee03bbd-18e6-47a9-adbb-a1d087b48e0e"/>
 </p>
 
 ## Description
@@ -58,7 +58,7 @@ N/A
 ```
 ├── quiz-game/
 │   ├── main.py                        # contains the main game logic and flow
-│   ├── quiz_data.txt                  # contains data for the questions, options and answers
+│   └── quiz_data.txt                  # contains data for the questions, options and answers
 ```
 
 ## Acknowledgements
